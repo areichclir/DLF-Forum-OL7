@@ -9,7 +9,8 @@ This is a site to house my work for Mozilla's Open Leaders 7 (Cohort E, Spring 2
 I’m working with the Digital Library Federation community to strengthen the story of openness and inclusivity at the annual DLF Forum so that all invested in the success of libraries, museums, and archives can feel welcome and find a place of their own at this event and in this community. I’m working open to make DLF’s offerings clear and available to a wider audience and to help with collaborations and outreach to other communities.
 
 # Project Documents
-I've created an Open Canvas to help further define my project goals, strategy, and needs for resources. [Check it out!](https://docs.google.com/presentation/d/1_5_heQTdHBgFQqy4XuMCHUgjaY-IjAuGp0prljlvb0M/edit?usp=sharing)
+* I've created an [Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/) to help further define my project goals, strategy, and needs for resources. [Check it out!](https://docs.google.com/presentation/d/1_5_heQTdHBgFQqy4XuMCHUgjaY-IjAuGp0prljlvb0M/edit?usp=sharing)
+* Check out my [Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/#assignment--make-a-project-roadmap) for [my work](https://docs.google.com/document/d/1gueGI_c5lNstJXFV6qmvW4C7r-ZnayBIxnerXR9Gucc/edit?usp=sharing).
 
 # Want to Chat?
 I'm so excited to be working with community members on this project. I'd love to hear from you! You can email me at [areich@clir.org](mailto:areich@clir.org) or find me on the Twitterverse [@aliyareich](https://twitter.com/aliyareich). 
