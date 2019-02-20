@@ -2,6 +2,9 @@
 # Hi there.
 Welcome! I'm Aliya Reich, the Program Assistant for Conferences and Events at the [Digital Library Federation](https://www.diglib.org), a project of the [Council on Library and Information Resources](https://www.clir.org).
 
+# What's the Digital Library Federation (DLF)?
+To understand my project, it might first be useful to start with what exactly is the Digital Library Federation. DLF is "networked member institutions and a robust community of practice—advancing research, learning, social justice, & the public good through the creative design and wise application of digital library technologies."
+
 # Re-telling the Story of the DLF Forum
 This is a site to house my work for Mozilla's Open Leaders 7 (Cohort E, Spring 2019), where I'll be focusing on how to re-envision the story of the Digital Library Federation's DLF Forum, pushing the event to be even more open and inclusive to a wider variety of communities beyond who's currently being served.
 
